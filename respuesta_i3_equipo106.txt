@@ -1,0 +1,7 @@
+BETA:	
+1. QUEDO CON TODOS LOS ARCHIVOS QUE AGREGAMOS Y CAMBIAMOS EN LAS OTRAS RAMAS
+2. SI
+3. UTILICE LOS COMANDOS: git checkout main
+git pull origin main
+git merge RamaGamma
+git push
