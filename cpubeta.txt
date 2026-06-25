@@ -430,3 +430,6 @@ cache_alignment	: 64
 address sizes	: 48 bits physical, 48 bits virtual
 power management: ts ttp hwpstate cpb eff_freq_ro
 
+
+Gonzalez Ezequiel
+11:57
