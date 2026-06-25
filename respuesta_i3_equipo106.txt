@@ -9,3 +9,7 @@ Gamma:
 D. SI
 E. NO TUVIMOS PROBLEMAS
 F. Use los siguientes comandos: Use el git checkout después hice los cambios en el archivo beta.txt y después use el git add . , el git commit -m y por ultimo el git push
+
+Alfa:
+G) Use los siguientes comandos:
+Git checkout Guzzo, después git pull (Para poder pullear los cambios) después hice los cambios en el archivo beta.txt y después use el git add . , el git commit -m y por ultimo el git push
